@@ -1,2 +1,3 @@
-# opencart_latvian_3x
-Latvian language for OpenCart 3x
+# Opencart Latvian Language 
+Supports Opencart 3.x
+This language is for frontside only(customer side)
